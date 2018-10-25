@@ -16,6 +16,6 @@ If a number not listed as an option is used as input, an error message will occu
 
 The valid choices are 1 through 4. Run the program again and select one of those.
 
-After choosing an option, the user is asked to enter an amount of months for membership. An error message will appear if the input is zero or anything with a negative value.
-After giving the amount of months, the program calculates the total charges and prints them to the screen.
-The prgram will then loop back to the menu where you can choose another option or quit the program.
+After choosing an option, the user is asked to enter an amount of months for membership. An error message will appear if the input is zero
+or anything with a negative value. After giving the amount of months, the program calculates the total charges and prints them to the screen.
+The program will then loop back to the menu where you can choose another option or quit the program.
