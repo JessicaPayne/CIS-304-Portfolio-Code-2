@@ -19,3 +19,9 @@ The valid choices are 1 through 4. Run the program again and select one of those
 After choosing an option, the user is asked to enter an amount of months for membership. An error message will appear if the input is zero
 or anything with a negative value. After giving the amount of months, the program calculates the total charges and prints them to the screen.
 The program will then loop back to the menu where you can choose another option or quit the program.
+
+The first part of the actual code lists the variable names and initializes them, which means setting them to zero so they can receive numbers later on.
+The second part of the code consists of putting the right set of calculations with the right choices (i.e., adult membership price multiplied by the number of months goes with the adult membership choice).
+The third part of the code is setting up the menu that will show on the screen, making sure it's spaced out correctly, and aligning it properly with the right numbers.
+The fourth part of the code consists of getting the number of months for membership.
+The final part is putting everything together and sending it to the screen as a total.
